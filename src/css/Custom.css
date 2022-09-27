@@ -1,0 +1,7 @@
+@import url(/node_modules/swiper/swiper-bundle.min.css);
+
+.swiper-button-next, .swiper-button-prev{
+    top: 20%;
+    background-color: #ffffff;
+    padding: 5px 9px;
+}
